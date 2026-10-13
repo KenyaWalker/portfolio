@@ -1,12 +1,12 @@
 {
   "version": 1,
   "files": {
-    "+not-found.html": "165dd745e165b6eb193ea87e03f632d5da1b860d",
+    "+not-found.html": "4170e4aae432fecefc5ae7e214d05ebb7ef2b87e",
     ".nojekyll": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-    "404.html": "73f411aa361a5db990811224aa7fc8daceafdbde",
+    "404.html": "330fb17e02a11727abf140419e2187aedee32a87",
     "_expo/.routes.json": "30c88504b2758d81c00da18c3f83811e714e82a4",
-    "_expo/static/js/web/entry-fe9fe9b56ef20787e037eb8fa0813d21.js": "d841e45145cb272b824cfea4361616f6192b8f68",
-    "_sitemap.html": "e7e598aa95c6b53f9f1aad60ecb5712143904a82",
+    "_expo/static/js/web/entry-87d690817ab5acf9ac88f54e13a9d60c.js": "7b828a348d524d1c622488863a00f238c27a936d",
+    "_sitemap.html": "2dcffdeba98d506fab2c508f10f0ea3b4e8635f6",
     "assets/__node_modules/.pnpm/@expo+vector-icons@15.1.1_expo-font@57.0.4_react-native@0.86.3_@types+react@19.2.18_react@19.2.3__react@19.2.3/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/AntDesign.3f78af31cca60105799838a1a7a59fbd.ttf": "53c6483afbf819502f747d5af70d99443e94c463",
     "assets/__node_modules/.pnpm/@expo+vector-icons@15.1.1_expo-font@57.0.4_react-native@0.86.3_@types+react@19.2.18_react@19.2.3__react@19.2.3/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/Entypo.31b5ffea3daddc69dd01a1f3d6cf63c5.ttf": "76d91cb9895982d66c398f9da3daa61470488fb6",
     "assets/__node_modules/.pnpm/@expo+vector-icons@15.1.1_expo-font@57.0.4_react-native@0.86.3_@types+react@19.2.18_react@19.2.3__react@19.2.3/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/EvilIcons.140c53a7643ea949007aa9a282153849.ttf": "6868f7bb64ba71b131690286ddc82aa0f542293e",
@@ -67,12 +67,12 @@
     "assets/assets/images/sites/sc-pet-services.c1d2c832d26ae54b5e3c462e3be09ada.jpg": "e760270109c1428cefa683d163d949aeb9596d7a",
     "assets/assets/images/sites/stave-and-tie.114cb1e8a1746201628b20ba95285ab1.jpg": "8d45b3daa9501d1f1bdee16fb0b04d6dfa412b75",
     "assets/assets/images/sites/the-haven-refresh.f52398ef00a4e37de728209c83a2afe7.jpg": "9194fbbd996101a48399bc0077f3bd40e50f336a",
-    "card.html": "e2cc3fda7ce0ec13b90b14d06539b5f59cc5b481",
-    "card/index.html": "e2cc3fda7ce0ec13b90b14d06539b5f59cc5b481",
+    "card.html": "12612994b148a4d5520938c2efe0a00c98b95884",
+    "card/index.html": "12612994b148a4d5520938c2efe0a00c98b95884",
     "documents/Kenya_Walker_Resume.pdf": "9dbb5204f0a37a93975193370a735ee901091e2c",
     "favicon.ico": "b487974522d35cbceffd1fcc9f98fdfd9689d3c7",
     "favicon.png": "dbab5b3722e6bd6069454eb5acc704f241b67359",
-    "index.html": "21b607ff65e0a07968f44e8cb3d8b259a09c400d",
+    "index.html": "23bdced79171480edf05958fec3a6a62e3fba40c",
     "social-preview.png": "895483d8a93d011e8fa6c62c0ec978ee09f0e8c5",
     "social-preview.svg": "c34aa751544dc6463a84ed7235dbce637fc7ac63"
   }
